@@ -1,3 +1,5 @@
+Problem Statement
+
 Ask the user for a number and print its square (the product of the number times itself).
 
 Here's a sample run of the program (user input is in bold italics):
